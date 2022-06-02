@@ -14,9 +14,68 @@
 </div>
 
 ---
-### About Me:
+<table border=0>
+<tr><td><b><h3>About me:</h3></b></td><td><b><h3>Обо мне:</h3></b></td></tr>
+<tr>
+<td>
+I am a beginner C++ developer.  
 
+I want to take part in the development:
+- multiplatform (windows, linux) desktop applications;;
+- applications with a graphic interface using Qt
+- applications with a graphic interface using C#;
+- software for microcontrollers (development of embedded systems);
+- Internet of Things (IoT)
+- algorithms for data processing.
 
+I`m a practical student, so I prefer to learn new technologies through development.
+	
+In the process of software development, I use:
+- functional programming;
+- principles of the OOP;
+- STD;
+- STL;
+- Qt;
+- Git.  
+
+I try to adhere to the principles of development, namely:
+- DRY
+- KISS
+- SOLID
+- YAGNI
+- APO
+</td>
+    <td>
+Я начинающий разработчик С++. 
+
+Душа лежит к разработке:
+- мультиплатформенных (windows, linux) desktop-приложений;
+- приложений с графическим интерфейсом с применением Qt
+- приложений с графическим интерфейсом на С#; 
+- программного обеспечения для микроконтроллеров (разработка втроенных систем);
+- интернет вещей (IoT)
+- алгоритмов обработки данных.
+
+Я практик, т. е. эффективность обучения выше при практическом внедрением знаний в разработку.
+
+В процессе разработки ПО пользуюсь:
+- функциональным программированием;
+- принципами ООП;
+- STD;
+- STL;
+- Qt;
+- Git.  
+
+Стараюсь придерживаться принципов разработки, а именно:
+- DRY
+- KISS
+- SOLID
+- YAGNI
+- APO
+</td>
+	
+  </tr>
+</table>
 
 ---
 
