@@ -18,8 +18,6 @@
 <tr><td><b><h3>About me:</h3></b></td><td><b><h3>Обо мне:</h3></b></td></tr>
 <tr>
 <td>
-I am a beginner C++ developer.  
-
 I want to take part in the development:
 - multiplatform (windows, linux) desktop applications;;
 - applications with a graphic interface using Qt
@@ -46,8 +44,6 @@ I try to adhere to the principles of development, namely:
 - APO
 </td>
     <td>
-Я начинающий разработчик С++. 
-
 Душа лежит к разработке:
 - мультиплатформенных (windows, linux) desktop-приложений;
 - приложений с графическим интерфейсом с применением Qt
